@@ -1,0 +1,5 @@
+print' AREA'
+b= input('enter base of triangle')
+h= input('enter height of triangle')
+area = ((b*h)/2)
+print area
