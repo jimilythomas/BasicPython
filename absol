@@ -1,0 +1,9 @@
+print ' ABSOLUTE DIFFERENCE'
+a= 20
+num= input('enter number')
+sub=num-20
+if sub>20:
+	abs=sub*2
+	print abs
+else: 
+	print 'not'
